@@ -1,7 +1,9 @@
 # Projet 2 : Analysez des données de systèmes éducatifs
 
 Auteur : Oumeima EL GHARBI
+
 Date : novembre 2021
+
 Formation Data Scientist OpenClassrooms (diplôme RNCP de niveau 7 - Master).
 
 ## Présentation des livrables
