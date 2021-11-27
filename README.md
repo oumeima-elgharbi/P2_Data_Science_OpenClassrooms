@@ -55,9 +55,9 @@ Le score total est sur 90 car il y a 15 pays et 6 indicateurs.
 
 Nous présentons dans ce second notebook des graphiques pour visualiser le classement des 7 pays pré-sélectionnés en fonction des autres par indicateur.
 
-- Affichage de diagrammes à bâtons (barplot) et de digrammes en boîtes (boxplot).
+- Affichage de diagrammes à bâtons (barplot) et de diagrammes en boîtes (boxplot).
 - Fusion des 6 DataFrames en un DataFrame final pour afficher la matrice de corrélation.
 - Affichage et interprétation de la matrice de corrélation.
-- Pour les trois pays ayant eu le meilleur classement : deux graphiques supplémentaires.
+- Pour les trois pays ayant eu le meilleur classement : deux graphiques supplémentaires. Préparation des données dans un "pivot table" (tableau croisé dynamique).
 Le premier graphique présente le taux d'utilisation d'internet en fonction des années (sur tout l'historique disponible dans le DataSet) : graphique de type lineplot pour suivre l'évolution de ces trois pays sur plus de 20 ans.
 Le deuxième graphique présente le nombre d'étudiants inscrits dans l'enseignement supérieur en fonction des années (lineplot).
