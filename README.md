@@ -15,11 +15,11 @@ Récupérer le DataSet : il faut aller sur ce lien : https://datacatalog.worldba
 Télécharger l'archive intitulée "Edstats_csv.zip" contenant les 5 fichiers csv dont nous nous servons pour notre étude.
 Puis placer ces 5 fichiers csv dans un dossier nommé "csv".
 
-"EdStatsCountry"
-"EdStatsCountry-Series.csv" à renommer => "EdStatsCountry_Series"
-"EdStatsData"
-"EdStatsFootNote"
-"EdStatsSeries"
+- "EdStatsCountry"
+- "EdStatsCountry-Series.csv" à renommer => "EdStatsCountry_Series"
+- "EdStatsData"
+- "EdStatsFootNote"
+- "EdStatsSeries"
 
 ## Lancer le notebook de nettoyage "P2_01_nettoyage" en premier.
 Ce premier notebook sert à explorer les données brutes.
