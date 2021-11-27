@@ -1,6 +1,10 @@
-# P2_Data_Science_OpenClassrooms, novembre 2021
+# Projet 2 : Analysez des données de systèmes éducatifs
 
-## Projet 2 : Analysez des données de systèmes éducatifs
+Auteur : Oumeima EL GHARBI
+Date : novembre 2021
+Formation Data Scientist OpenClassrooms (diplôme RNCP de niveau 7 - Master).
+
+## Présentation des livrables
 Lien de référencement du projet : https://openclassrooms.com/fr/paths/164-data-scientist#path-tabs
 
 Ce projet contient trois livrables : un notebook de nettoyage, un notebook d'exploration des données et un support PowerPoint pour la soutenance du projet devant le jury.
